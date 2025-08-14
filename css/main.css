@@ -2655,7 +2655,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .s-cta {
   padding-top: 13.5rem;
-  padding-bottom: 13.6rem;
+  padding-bottom: 1.6rem;
   background-color: #000000;
   border-top: 1px solid rgba(255, 255, 255, 0.03);
   font-size: 2.4rem;
