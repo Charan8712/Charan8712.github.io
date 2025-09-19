@@ -1486,7 +1486,7 @@ input::-moz-focus-inner {
 .section-heading--centerbottom {
   text-align: center;
   padding-top: 0;
-  padding-bottom: 3.2rem;
+  padding-bottom: 13.2rem;
 }
 
 .section-heading--centerbottom::before {
@@ -2167,8 +2167,8 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-  padding-top: 19.2rem;
-  padding-bottom: 16.8rem;
+  padding-top: 9.2rem;
+  padding-bottom: 6.8rem;
   background-color: #ffffff;
 }
 
@@ -2654,7 +2654,7 @@ input::-moz-focus-inner {
  *
  * ------------------------------------------------------------------- */
 .s-cta {
-  padding-top: 13.5rem;
+  padding-top: 3.5rem;
   padding-bottom: 1.6rem;
   background-color: #000000;
   border-top: 1px solid rgba(255, 255, 255, 0.03);
